@@ -6,7 +6,4 @@ defmodule FizzBuzz do
   def fizzbuzz(number) when is_integer(number) do
     number
   end
-
-  def fizzbuzz(list) when is_list(list) do
-  end
 end
